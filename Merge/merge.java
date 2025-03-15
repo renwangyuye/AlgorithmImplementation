@@ -1,4 +1,4 @@
-package class022;
+package Merge;
 
 // 这是输入输出处理效率很高的写法
 
@@ -9,7 +9,7 @@ import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.io.StreamTokenizer;
 
-public class Code01_SmallSum {
+public class merge {
 
     public static int MAXN = 100001;
 
